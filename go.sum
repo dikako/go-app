@@ -2,3 +2,7 @@ github.com/dikako/go-module v1.0.3 h1:EUQUM5pAFdsG1IRP/kj6cx8lWvov3yQc0RHAcJsliR
 github.com/dikako/go-module v1.0.3/go.mod h1:cG8U0fFS8KetckH8G6mFJ2EwgPmRvfjjDw5EkrCHQ+0=
 github.com/dikako/go-module v1.1.0 h1:IRj2izCUbe4viyV91tRreh/933QECViOIrWnMK2MGAQ=
 github.com/dikako/go-module v1.1.0/go.mod h1:cG8U0fFS8KetckH8G6mFJ2EwgPmRvfjjDw5EkrCHQ+0=
+github.com/dikako/go-module/v2 v2.0.0 h1:tp+53U1ShLTyUQtDNf2KuiBYI3Ki7VaZSYwXsVi48MI=
+github.com/dikako/go-module/v2 v2.0.0/go.mod h1:axqEH1zmTVajL+knkMfEmP1wZgph2IwogJHz+zfa8xQ=
+github.com/dikako/go-module/v2 v2.0.1 h1:LBPpFSqAbUIyo2NklQrw+CvlVQU4c3e0HzIpns3IDLM=
+github.com/dikako/go-module/v2 v2.0.1/go.mod h1:axqEH1zmTVajL+knkMfEmP1wZgph2IwogJHz+zfa8xQ=
